@@ -58,11 +58,16 @@ Timezone: **GMT-3** (Brasília)
 - Cloned repo to `/home/chii/Git/Notion-daily-practice-reset`
 - Moved `notion-daily-reset.md` from Skills workspace into repo
 - Notion MCP authenticated successfully
-- Local git commit: `3d1f061` (initial spec + discovery logs)
-- Automation prompts created in `automations/`:
-  - `daily-practice-verify.prompt.md` (cron `59 2 * * *` UTC = 23:59 GMT-3)
-  - `daily-practice-reset.prompt.md` (cron `1 3 * * *` UTC = 00:01 GMT-3)
-- **Pending:** `git push` requires GitHub credentials on this machine
-- **Pending:** Create both Cursor Automations in Agents Window using `automations/README.md`
+- Git commits pushed to `main` on `hakiwan/Notion-daily-practice-reset` (SSH remote)
+- Automation prompts and workflow JSON in `automations/`:
+  - `daily-practice-verify.*` (cron `59 2 * * *` UTC = 23:59 GMT-3)
+  - `daily-practice-reset.*` (cron `1 3 * * *` UTC = 00:01 GMT-3)
+- **Pending:** Create both Cursor Automations in Agents Window (see `automations/README.md`)
+
+## Push — 2026-07-03 19:19 GMT-3
+
+- Remote: `git@github.com:hakiwan/Notion-daily-practice-reset.git`
+- Branch `main` tracking `origin/main`
+- Commits on remote: `3d1f061`, `d6d3c23`, `118edd2`
 
 ---
