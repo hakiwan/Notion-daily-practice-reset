@@ -71,3 +71,21 @@ Timezone: **GMT-3** (Brasília)
 - Commits on remote: `3d1f061`, `d6d3c23`, `118edd2`
 
 ---
+
+## Reset 2026-07-03
+
+**Timestamp:** 2026-07-03 19:38 GMT-3
+
+### Pages reset
+- CS50 | Harvard course — `398bd07d-cbb8-8200-ae02-8171558337df`
+- Health & Fitness — `0b6bd07d-cbb8-8343-8d61-01be3eac35a4`
+
+### Errors
+- (none)
+
+### Summary
+- Reset (unchecked): 2
+- Already unchecked: 14
+- Post-reset verification: both pages confirmed `Daily Practice = __NO__`
+
+---
