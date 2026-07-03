@@ -52,3 +52,17 @@ Timezone: **GMT-3** (Brasília)
 (Remaining pages not individually fetched at discovery time; automations fetch all pages at runtime.)
 
 ---
+
+## Setup — 2026-07-03 18:45 GMT-3
+
+- Cloned repo to `/home/chii/Git/Notion-daily-practice-reset`
+- Moved `notion-daily-reset.md` from Skills workspace into repo
+- Notion MCP authenticated successfully
+- Local git commit: `3d1f061` (initial spec + discovery logs)
+- Automation prompts created in `automations/`:
+  - `daily-practice-verify.prompt.md` (cron `59 2 * * *` UTC = 23:59 GMT-3)
+  - `daily-practice-reset.prompt.md` (cron `1 3 * * *` UTC = 00:01 GMT-3)
+- **Pending:** `git push` requires GitHub credentials on this machine
+- **Pending:** Create both Cursor Automations in Agents Window using `automations/README.md`
+
+---
