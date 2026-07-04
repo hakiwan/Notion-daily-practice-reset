@@ -124,3 +124,57 @@ Timezone: **GMT-3** (Brasília)
 - Already unchecked: 16
 
 ---
+
+## Discovery correction — 2026-07-04
+
+**Issue:** Previous runs targeted the wrong Second Brain page (duplicate "(1)" copy).
+
+| | Wrong (old) | Correct |
+|---|-------------|---------|
+| Page | Second Brain \| All-in-one Productivity System **(1)** | Second Brain \| All-in-one Productivity System |
+| Page ID | `392bd07d-cbb8-806f-b7e0-ce98a9cab0db` | `b93bd07d-cbb8-82ba-91d7-811c250d1086` |
+| Page URL | https://app.notion.com/p/392bd07dcbb8806fb7e0ce98a9cab0db | https://app.notion.com/p/b93bd07dcbb882ba91d7811c250d1086 |
+| Data source | `collection://7a8bd07d-cbb8-824c-8d82-079d94aa845e` | `collection://831bd07d-cbb8-8380-a905-0738bbf5dac1` |
+| Life Areas DB | https://app.notion.com/p/230bd07dcbb883d59ce70105a2a09674 | https://app.notion.com/p/4d6bd07dcbb8822fa85401bac3bb52e7 |
+
+**Note:** `notion-search` with `data_source_url: collection://831bd07d-cbb8-8380-a905-0738bbf5dac1` returns all 16 pages reliably.
+
+### Life Areas inventory (correct page, 16 pages)
+
+| Name | Page ID | URL |
+|------|---------|-----|
+| Skill \| AI | `390bd07d-cbb8-80b1-9bf3-f9f95a8e1d1d` | https://app.notion.com/p/390bd07dcbb880b19bf3f9f95a8e1d1d |
+| AI bootcamp \| Udemy | `3d5bd07d-cbb8-828c-a063-018169e0e2a0` | https://app.notion.com/p/3d5bd07dcbb8828ca063018169e0e2a0 |
+| CS50 \| Harvard course | `a05bd07d-cbb8-8317-8ce7-01ec9a665490` | https://app.notion.com/p/a05bd07dcbb883178ce701ec9a665490 |
+| Linux studies | `392bd07d-cbb8-80c2-b429-c42450eabd96` | https://app.notion.com/p/392bd07dcbb880c2b429c42450eabd96 |
+| Twitter X | `390bd07d-cbb8-8032-9c26-d198332a373c` | https://app.notion.com/p/390bd07dcbb880329c26d198332a373c |
+| Marked down | `390bd07d-cbb8-8074-a1dd-c0e5af76dd19` | https://app.notion.com/p/390bd07dcbb88074a1ddc0e5af76dd19 |
+| Health & Fitness | `ed1bd07d-cbb8-8356-be4a-81d026d7d2ca` | https://app.notion.com/p/ed1bd07dcbb88356be4a81d026d7d2ca |
+| Affinity | `390bd07d-cbb8-80f1-8e6b-c9b77f303429` | https://app.notion.com/p/390bd07dcbb880f18e6bc9b77f303429 |
+| Photography learning | `390bd07d-cbb8-80b5-a172-f244bc3a591d` | https://app.notion.com/p/390bd07dcbb880b5a172f244bc3a591d |
+| Python bootcamp \| Udemy | `a26bd07d-cbb8-8222-9c48-019de1f1b35c` | https://app.notion.com/p/a26bd07dcbb882229c48019de1f1b35c |
+| Git up | `390bd07d-cbb8-80d1-83cd-ed51c34999dd` | https://app.notion.com/p/390bd07dcbb880d183cded51c34999dd |
+| DA | `390bd07d-cbb8-80cb-b805-ee5fe141c6af` | https://app.notion.com/p/390bd07dcbb880cbb805ee5fe141c6af |
+| Portfolio/site | `390bd07d-cbb8-804c-a634-fa5d2fa3d2d7` | https://app.notion.com/p/390bd07dcbb8804ca634fa5d2fa3d2d7 |
+| 読む | `390bd07d-cbb8-80af-8562-d503dfbe0031` | https://app.notion.com/p/390bd07dcbb880af8562d503dfbe0031 |
+| Anki \| 日本語 | `390bd07d-cbb8-80e8-8bd7-d79ac44b2096` | https://app.notion.com/p/390bd07dcbb880e88bd7d79ac44b2096 |
+| Home | `c3bbd07d-cbb8-83b0-93a6-81e03d40cdb6` | https://app.notion.com/p/c3bbd07dcbb883b093a681e03d40cdb6 |
+
+---
+
+## Verify 2026-07-04
+
+**Timestamp:** 2026-07-04 09:32 GMT-3 (12:32 UTC)
+
+### Pages with Daily Practice checked
+1. **Skill \| AI** — `390bd07d-cbb8-80b1-9bf3-f9f95a8e1d1d` — https://app.notion.com/p/390bd07dcbb880b19bf3f9f95a8e1d1d
+2. **CS50 \| Harvard course** — `a05bd07d-cbb8-8317-8ce7-01ec9a665490` — https://app.notion.com/p/a05bd07dcbb883178ce701ec9a665490
+3. **Marked down** — `390bd07d-cbb8-8074-a1dd-c0e5af76dd19` — https://app.notion.com/p/390bd07dcbb88074a1ddc0e5af76dd19
+
+### Summary
+- Checked: **3**
+- Unchecked: **13**
+- Total scanned: **16**
+- Target page: Second Brain \| All-in-one Productivity System (`b93bd07d-cbb8-82ba-91d7-811c250d1086`)
+
+---

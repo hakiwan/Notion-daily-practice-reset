@@ -1,5 +1,8 @@
 **Local of action:** Notion, page inside Erika Aki's Space HQ
-Page name: *Second Brain|all-in-one-productivity-system*
+Page name: *Second Brain | All-in-one Productivity System*
+Page URL: https://app.notion.com/p/Second-Brain-All-in-one-Productivity-System-b93bd07dcbb882ba91d7811c250d1086
+Page ID: `b93bd07d-cbb8-82ba-91d7-811c250d1086`
+Areas data source: `collection://831bd07d-cbb8-8380-a905-0738bbf5dac1`
 
 >Inside the category "Life Areas", there are multiples pages like "Python bootcamp | Udemy". For each one of them, there's a check box called "Daily Practice".
 
