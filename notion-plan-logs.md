@@ -178,3 +178,24 @@ Timezone: **GMT-3** (Brasília)
 - Target page: Second Brain \| All-in-one Productivity System (`b93bd07d-cbb8-82ba-91d7-811c250d1086`)
 
 ---
+
+## Reset 2026-07-04 (manual run)
+
+**Timestamp:** 2026-07-04 09:34 GMT-3 (12:34 UTC)
+
+### Pages reset
+1. **Skill \| AI** — `390bd07d-cbb8-80b1-9bf3-f9f95a8e1d1d`
+2. **CS50 \| Harvard course** — `a05bd07d-cbb8-8317-8ce7-01ec9a665490`
+3. **Marked down** — `390bd07d-cbb8-8074-a1dd-c0e5af76dd19`
+
+### Errors
+- (none)
+
+### Summary
+- Checked before reset: 3
+- Reset (unchecked): 3
+- Already unchecked: 13
+- Post-reset verification: all 3 pages confirmed `Daily Practice = __NO__`
+- Target page: Second Brain \| All-in-one Productivity System (`b93bd07d-cbb8-82ba-91d7-811c250d1086`)
+
+---
