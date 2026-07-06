@@ -6,15 +6,15 @@ Only uncheck **Daily Practice** on Life Areas pages where it is currently checke
 
 ## Notion targets (from discovery)
 
-- **Second Brain page:** `392bd07d-cbb8-806f-b7e0-ce98a9cab0db`
-- **Areas data source:** `collection://7a8bd07d-cbb8-824c-8d82-079d94aa845e`
+- **Second Brain page:** `b93bd07d-cbb8-82ba-91d7-811c250d1086`
+- **Areas data source:** `collection://831bd07d-cbb8-8380-a905-0738bbf5dac1`
 - **Checkbox property:** `Daily Practice` (`__YES__` = checked, `__NO__` = unchecked)
 
 ## Steps
 
 1. Use Notion MCP.
 2. Search within the Areas data source:
-   - `data_source_url`: `collection://7a8bd07d-cbb8-824c-8d82-079d94aa845e`
+   - `data_source_url`: `collection://831bd07d-cbb8-8380-a905-0738bbf5dac1`
    - `query`: `area`
    - `page_size`: 25
 3. For each result page, `notion-fetch` and check `Daily Practice`.
