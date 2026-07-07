@@ -18,10 +18,13 @@ Only read and log **Daily Practice** checkboxes in the Life Areas **Areas** data
    - `query`: `area`
    - `page_size`: 25
 3. For each result page, `notion-fetch` the page and read the `Daily Practice` property from `<properties>`.
-4. Report which pages have **Daily Practice** checked (title + page ID + URL) and the count of checked vs unchecked.
+4. Build a verify log for today (GMT-3 timestamp) listing:
+   - All pages with **Daily Practice** checked (title + page ID + URL)
+   - Count of checked vs unchecked
+5. Append to `notion-plan-logs.md` under `## Verify YYYY-MM-DD`.
 
 ## Restrictions
 
 - Do not modify any Notion properties.
-- Do not commit or push anything to GitHub.
+- Do not commit or push `notion-plan-logs.md` (gitignored).
 - If blocked for more than 2 minutes, stop and report the error.
