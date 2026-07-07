@@ -1,5 +1,8 @@
 **Local of action:** Notion, page inside Erika Aki's Space HQ
-Page name: *Second Brain|all-in-one-productivity-system*
+Page name: *Second Brain | All-in-one Productivity System*
+Page URL: https://app.notion.com/p/Second-Brain-All-in-one-Productivity-System-b93bd07dcbb882ba91d7811c250d1086
+Page ID: `b93bd07d-cbb8-82ba-91d7-811c250d1086`
+Areas data source: `collection://831bd07d-cbb8-8380-a905-0738bbf5dac1`
 
 >Inside the category "Life Areas", there are multiples pages like "Python bootcamp | Udemy". For each one of them, there's a check box called "Daily Practice".
 
@@ -14,5 +17,5 @@ Page name: *Second Brain|all-in-one-productivity-system*
 **Restrictions**
 - Don't make any changes beyond what's asked in the "What to do" in this document
 - Ask for permission if anything needs to be changed or created during the plan execution
-- Create a file called *notion-plan-logs.md* and shows all the logs you made for this plan
+- Append run logs locally to `notion-plan-logs.md` (this file is gitignored — do not commit or push it)
 - If you get stuck with an error and can't proceed after 2 minutes, you must stop and ask how to continue
