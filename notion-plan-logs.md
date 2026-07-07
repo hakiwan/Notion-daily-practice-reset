@@ -89,3 +89,39 @@ Timezone: **GMT-3** (Brasília)
 - Post-reset verification: both pages confirmed `Daily Practice = __NO__`
 
 ---
+
+## Verify 2026-07-07
+
+**Timestamp:** 2026-07-07 00:02 GMT-3 (pre-reset snapshot)
+
+**Data source:** `collection://831bd07d-cbb8-8380-a905-0738bbf5dac1` (Areas — Second Brain Life Areas)
+
+### Pages with Daily Practice checked (1)
+
+| Name | Page ID | URL |
+|------|---------|-----|
+| Git up | `390bd07d-cbb8-80d1-83cd-ed51c34999dd` | https://app.notion.com/p/390bd07dcbb880d183cded51c34999dd |
+
+### Summary
+- Checked: 1
+- Unchecked: 15
+- Total pages scanned: 16
+
+---
+
+## Reset 2026-07-07
+
+**Timestamp:** 2026-07-07 00:03 GMT-3
+
+### Pages reset
+- Git up — `390bd07d-cbb8-80d1-83cd-ed51c34999dd`
+
+### Errors
+- (none)
+
+### Summary
+- Reset (unchecked): 1
+- Already unchecked: 15
+- Post-reset verification: Git up confirmed `Daily Practice = __NO__`
+
+---
