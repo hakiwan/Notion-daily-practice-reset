@@ -12,7 +12,6 @@ Two scheduled automations for `hakiwan/Notion-daily-practice-reset`.
 - **Repo:** `hakiwan/Notion-daily-practice-reset`
 - **Tools:** Notion MCP (`notion`)
 - **Spec:** `@notion-daily-reset.md`
-- **Logs:** `@notion-plan-logs.md`
 
 ## Setup in Cursor (Agents Window)
 

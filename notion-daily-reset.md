@@ -17,5 +17,4 @@ Areas data source: `collection://831bd07d-cbb8-8380-a905-0738bbf5dac1`
 **Restrictions**
 - Don't make any changes beyond what's asked in the "What to do" in this document
 - Ask for permission if anything needs to be changed or created during the plan execution
-- Create a file called *notion-plan-logs.md* and shows all the logs you made for this plan
 - If you get stuck with an error and can't proceed after 2 minutes, you must stop and ask how to continue

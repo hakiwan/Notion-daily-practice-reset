@@ -19,7 +19,7 @@
       }
     ],
     "prompts": [
-      "Follow @notion-daily-reset.md. This is the 00:01 GMT-3 reset run.\n\nOnly uncheck Daily Practice on Life Areas pages where it is checked (data source collection://831bd07d-cbb8-8380-a905-0738bbf5dac1).\n\n1. Use Notion MCP.\n2. Search data_source_url collection://831bd07d-cbb8-8380-a905-0738bbf5dac1 query area page_size 25.\n3. Fetch each page; if Daily Practice is __YES__, update_properties to Daily Practice __NO__ only.\n4. Append to @notion-plan-logs.md under ## Reset YYYY-MM-DD with GMT-3 timestamp, pages reset, errors.\n5. Commit and push log update to hakiwan/Notion-daily-practice-reset.\n\nDo not change anything beyond unchecking Daily Practice. Stop if blocked >2 minutes."
+      "Follow @notion-daily-reset.md. This is the 00:01 GMT-3 reset run.\n\nOnly uncheck Daily Practice on Life Areas pages where it is checked (data source collection://831bd07d-cbb8-8380-a905-0738bbf5dac1).\n\n1. Use Notion MCP.\n2. Search data_source_url collection://831bd07d-cbb8-8380-a905-0738bbf5dac1 query area page_size 25.\n3. Fetch each page; if Daily Practice is __YES__, update_properties to Daily Practice __NO__ only.\n4. Report pages reset and any errors.\n\nDo not commit or push to GitHub. Stop if blocked >2 minutes."
     ],
     "gitConfig": {
       "repo": "hakiwan/Notion-daily-practice-reset"

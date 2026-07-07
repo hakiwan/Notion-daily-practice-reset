@@ -22,13 +22,10 @@ Only uncheck **Daily Practice** on Life Areas pages where it is currently checke
    - `command`: `update_properties`
    - `properties`: `{ "Daily Practice": "__NO__" }`
    - Update **only** that property.
-5. Append to `notion-plan-logs.md` under `## Reset YYYY-MM-DD`:
-   - GMT-3 timestamp
-   - List of pages reset (title + page ID)
-   - Any errors (continue on individual failures)
-6. Commit and push the log update to `hakiwan/Notion-daily-practice-reset`.
+5. Report which pages were reset (title + page ID) and any errors.
 
 ## Restrictions
 
 - Do not change anything beyond unchecking **Daily Practice**.
+- Do not commit or push anything to GitHub.
 - If blocked for more than 2 minutes, stop and report the error.

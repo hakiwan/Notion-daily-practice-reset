@@ -19,7 +19,7 @@
       }
     ],
     "prompts": [
-      "Follow @notion-daily-reset.md. This is the 23:59 GMT-3 verify run.\n\nOnly read and log Daily Practice checkboxes in the Life Areas Areas database (data source collection://831bd07d-cbb8-8380-a905-0738bbf5dac1). Do not modify Notion.\n\n1. Use Notion MCP.\n2. Search data_source_url collection://831bd07d-cbb8-8380-a905-0738bbf5dac1 query area page_size 25.\n3. Fetch each page; read Daily Practice (__YES__ checked, __NO__ unchecked).\n4. Append to @notion-plan-logs.md under ## Verify YYYY-MM-DD with GMT-3 timestamp, checked pages, counts.\n5. Commit and push log update to hakiwan/Notion-daily-practice-reset.\n\nDo not change anything beyond the log file. Stop if blocked >2 minutes."
+      "Follow @notion-daily-reset.md. This is the 23:59 GMT-3 verify run.\n\nOnly read Daily Practice checkboxes in the Life Areas Areas database (data source collection://831bd07d-cbb8-8380-a905-0738bbf5dac1). Do not modify Notion.\n\n1. Use Notion MCP.\n2. Search data_source_url collection://831bd07d-cbb8-8380-a905-0738bbf5dac1 query area page_size 25.\n3. Fetch each page; read Daily Practice (__YES__ checked, __NO__ unchecked).\n4. Report checked pages (title, page ID, URL) and counts.\n\nDo not commit or push to GitHub. Stop if blocked >2 minutes."
     ],
     "gitConfig": {
       "repo": "hakiwan/Notion-daily-practice-reset"
